@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kingsleysase
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning javascript and php
-- 💞️ I’m looking to collaborate on los and lots of projects
+- 💞️ I’m looking to collaborate on lots and lots of projects
 - 📫 How to reach me sasekator@gmail.com
 
 <!---
