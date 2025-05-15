@@ -1,4 +1,4 @@
-<h1 align="left">👋 Welcome to Kingsley's GitHub!</h1>
+<h1 align="left">👋 Welcome to Kingsley's Profile!</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Hi, I am Kingsley, a passionate Data Analyst with years of hands-on experience in research, e-commerce, and the development sector.<br><br>I specialize in extracting meaning from data through tools like SQL, R, Excel, Power BI, and Tableau, and I thrive on solving complex problems with simple, effective solutions.<br><br>Beyond crunching numbers, I am deeply invested in personal growth, mentoring others, and building a brand that resonates with excellence and authenticity. When I am not analyzing data, you will find me exploring the evolving tech landscape, playing soccer, or sharing insights or my tech journey on LinkedIn and X (Twitter).</p>
+<p align="left">Hi, I am Kingsley, a passionate Data Analyst with years of hands-on experience in data analysis, research, and the development sector.<br><br>I specialize in extracting meaning from data and insights through tools like SQL, R, Excel, Power BI, and Tableau, and I thrive on solving complex problems with simple, effective solutions.<br><br>Beyond crunching numbers, I am deeply invested in personal growth, mentoring others, and building a brand that resonates with excellence and authenticity. When I am not analyzing data, you will find me exploring the evolving tech landscape, playing soccer, or sharing insights on a newly worked project or my posting my tech journey on LinkedIn and X (Twitter).</p>
 
 ###
 
