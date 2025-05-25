@@ -82,7 +82,17 @@
 
 ###
 
-<p align="left">My vision is to become a world-class Data Analyst known for transforming raw data into actionable insights that drive strategic decisions across industries.<br>I am committed to lifelong learning, continuous improvement, and using data as a powerful tool to create value, innovation, and positive impact.</p>
+- [**[Excel Projects](https://github.com/Kingsleysase/Excel-Projects)**]: In this repository, you will find all projects completed using Microsoft Excel.
+
+- [**Power BI Projects**](#): This repository hosts all projects completed using Power BI.
+
+- [**SQL Projects**](#): In this repository, you will find projects completed using PostgreSQL, SQL Server, and MySQL.
+
+- [**Tableau Projects**](#): In this repository, you will find all projects completed using Tableau.
+
+- [**IBM SPSS Projects**](#): This repository contains all projects completed using IBM SPSS.
+
+- [**R Projects**](#): This repository hosts all projects completed using R Studio.
 
 ###
 
@@ -90,7 +100,7 @@
 
 ###
 
-<p align="left">My vision is to become a world-class Data Analyst known for transforming raw data into actionable insights that drive strategic decisions across industries.<br>I am committed to lifelong learning, continuous improvement, and using data as a powerful tool to create value, innovation, and positive impact.</p>
+<p align="left"></p>
 
 ###
 
