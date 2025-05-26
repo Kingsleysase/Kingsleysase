@@ -82,9 +82,9 @@
 
 ###
 
-- [**[Excel Projects](https://github.com/Kingsleysase/Excel-Projects)**]: In this repository, you will find all projects completed using Microsoft Excel.
+- [**Excel Projects**](https://github.com/Kingsleysase/Excel-Projects): In this repository, you will find all projects completed using Microsoft Excel.
 
-- [**Power BI Projects**](#): This repository hosts all projects completed using Power BI.
+- [**Power BI Projects**](https://github.com/Kingsleysase/Power-BI-Projects): This repository hosts all projects completed using Power BI.
 
 - [**SQL Projects**](#): In this repository, you will find projects completed using PostgreSQL, SQL Server, and MySQL.
 
