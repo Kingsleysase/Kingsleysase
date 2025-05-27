@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">Hi, I am Kingsley, a passionate Data Analyst with years of hands-on experience in data analysis, research, and the development sector.<br><br>I specialize in extracting meaning from data and insights through tools like SQL, R, Excel, Power BI, and Tableau, and I thrive on solving complex problems with simple, effective solutions.<br><br>Beyond crunching numbers, I am deeply invested in personal growth, mentoring others, and building a brand that resonates with excellence and authenticity. When I am not analyzing data, you will find me exploring the evolving tech landscape, playing soccer, or sharing insights on a newly worked project or my posting my tech journey on LinkedIn and X (Twitter).</p>
+<p align="left">Hi, I am Kingsley, a passionate Data Analyst with years of hands-on experience in data analysis, research, and the development sector.<br><br>I specialize in extracting meaningful insights from data 
+ using tools like SQL, R, Excel, Power BI, and Tableau. I thrive on solving complex problems with simple, effective solutions.<br><br>Beyond crunching numbers, I am deeply invested in personal growth, mentoring others, and building a brand that resonates with excellence and authenticity. When I am not analyzing data, you will find me exploring the evolving tech landscape, playing soccer, or sharing insights on a newly worked project or my posting my tech journey on LinkedIn and X (Twitter).</p>
 
 ###
 
@@ -86,13 +87,15 @@
 
 - [**Power BI Projects**](https://github.com/Kingsleysase/Power-BI-Projects): This repository hosts all projects completed using Power BI.
 
-- [**SQL Projects**](#): In this repository, you will find projects completed using PostgreSQL, SQL Server, and MySQL.
+- [**SQL Projects**](https://github.com/Kingsleysase/SQL-Projects): In this repository, you will find projects completed using PostgreSQL, SQL Server, and MySQL.
 
-- [**Tableau Projects**](#): In this repository, you will find all projects completed using Tableau.
+- [**Tableau Projects**](https://github.com/Kingsleysase/Tableau-Projects): In this repository, you will find all projects completed using Tableau.
 
-- [**IBM SPSS Projects**](#): This repository contains all projects completed using IBM SPSS.
+- [**IBM SPSS Projects**](https://github.com/Kingsleysase/IBM-SPSS-Projects): This repository contains all projects completed using IBM SPSS.
 
-- [**R Projects**](#): This repository hosts all projects completed using R Studio.
+- [**R Projects**](https://github.com/Kingsleysase/R-Projects): This repository hosts all projects completed using R Studio.
+
+- [**PowerPoint Projects**](https://github.com/Kingsleysase/PowerPoint-Projects): This repository contains all reports done using Microsoft PowerPoint.
 
 ###
 
