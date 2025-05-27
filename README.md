@@ -50,10 +50,11 @@
 ### Data Visualization
 - Power BI (Dashboard design, DAX functions)
 - Tableau (Storytelling with data)
+- Microsoft PowerPoint (Storytelling with reports (slides))
 - Basic Python for Data Analysis (Pandas, Matplotlib)
 
 ### Research & Reporting
-- Survey Design & Analysis (SurveyCTO, Google Forms, KoboToolbox)
+- Survey Design & Analysis (SurveyCTO, Google Forms, KoboToolbox, ODK)
 - Report Writing (Management information reports, technical reports)
 - Statistical Analysis (SPSS, STATA, R)
 
